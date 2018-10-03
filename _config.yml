@@ -26,7 +26,7 @@ facebook_username: junseok.oh.39
 instagram_username: jun.s.oh
 
 # Build settings
-markdown: kramdown
+markdown: kramdown # Quick Reference : https://kramdown.gettalong.org/quickref.html
 theme: minima
 plugins:
   - jekyll-feed
