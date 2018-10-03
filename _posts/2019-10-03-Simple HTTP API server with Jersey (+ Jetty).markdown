@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simple HTTP API server with Jersey (+ Jetty)"
-date: 2018-10-03 19:10:00 +0900
+date: 2018-10-03 22:37:00 +0900
 categories: sw
 description: rest, server, jersey, jetty
 ---
