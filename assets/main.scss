@@ -1,0 +1,87 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body {
+    color: #424242;
+}
+
+strong {
+    font-weight: 600;
+}
+
+.site-title {
+    @include relative-font-size(1.8);
+    font-weight: 200;
+
+    &,
+    &:visited {
+        color: #8694B5;
+    }
+}
+
+.post-wrapper {
+    text-align: center;
+}
+
+.post-list-heading {
+    font-weight: 200;
+}
+
+.post-meta {
+    font-weight: 200;
+}
+
+.post-link {
+    @include relative-font-size(1.2);
+} 
+
+.page-link {
+    font-weight: 200;
+
+    &,
+    &:visited {
+        color: #516593;
+    }
+}
+
+.post-title,
+.post-content h1,h2,h3,h4,h5,h6 {
+    font-weight: 200;
+}
+
+.footer-copyright {
+    @include relative-font-size(0.87);
+    color: $grey-color;
+    text-align: center;
+}
+
+.rss-subscribe {
+    font-weight: 200;
+    @include relative-font-size(0.87);
+}
+
+a {
+    & {
+        color: #5366B2;
+    }
+
+    &:visited {
+        color: #A6B4D5;
+    }
+
+    &:hover {
+        color: #7386F2;
+    }
+}
+
+.copyleft {
+  display:inline-block;
+  transform: rotate(180deg);
+}
+
+.svg-icon {
+    padding-right: 0px;
+}
