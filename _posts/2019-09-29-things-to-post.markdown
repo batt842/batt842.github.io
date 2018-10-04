@@ -4,6 +4,7 @@ title:  "Things to post"
 date: 2018-09-29 15:50:00 +0900
 categories: sw
 description: The followings are a brief list I'm going to post on this blog.
+comments: false
 ---
 The followings are a brief list I'm going to post on this blog.
 
@@ -11,7 +12,7 @@ The followings are a brief list I'm going to post on this blog.
 - Collections
 - Recent concurrent collections
 - CAS techniques
-- Singletone strategy
+- Singleton strategy
 - Concurrent programming(thread-safe techniques), data synchronization, 
 - Java monitor (wait, notify, synchronize, monitor, happen-before, interrupt, etc...)
 - Java process monitor (jstack, jmap, jhat, jstat)

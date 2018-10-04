@@ -35,6 +35,9 @@ header_pages:
   - posts.md
   - aboutme.md
 
+disqus:
+  shortname: junsoh
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
