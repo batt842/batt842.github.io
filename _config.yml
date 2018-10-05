@@ -35,6 +35,8 @@ header_pages:
   - posts.md
   - aboutme.md
 
+google_analytics: UA-127047509-1
+
 disqus:
   shortname: junsoh
 

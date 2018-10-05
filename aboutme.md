@@ -9,7 +9,7 @@ Oh, Junseok
 
 I'm a **Software Engineer** developing **Server-Side Applications** mainly using **Java**.
 
-Currently, I'm working in **Search Department** at **Kakao Corp.** located in **Jeju, South Korea**.
+Currently, I'm working for **[DAUM Search][DAUM]** at **[Kakao Corp.][Kakao Corp.]** located in **Jeju, South Korea**.
 
 I'm interested in **Large-Scale Distributed System**, **Microservices Architecture**, and **Functional Programming.**
 
@@ -23,3 +23,6 @@ Besides, I'm a drawing enthusiast, knowledge lover, and, of course, engineer. Re
 <div class="wrapper">
     {%- include social.html -%}
 </div>
+
+[DAUM]: https://www.daum.net/
+[Kakao Corp.]: https://www.kakaocorp.com/
