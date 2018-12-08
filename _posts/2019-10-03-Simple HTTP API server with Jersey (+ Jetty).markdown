@@ -1,22 +1,23 @@
 ---
 layout: post
-title: "Simple HTTP API server with Jersey (+ Jetty)"
+title: "Simple RESTful API server with Jersey"
 date: 2018-10-03 22:37:00 +0900
 categories: sw
 description: rest, server, jersey, jetty
 #comments: false
+permalink: /sw/1/Jersey
 ---
 
-Early in this year, I was working on developing a distributed system. (many things happened...) Apparently, the need for small service components which provide HTTP API endpoints arose. The most crucial part was choosing a lightweight and simple Web Services framework. At that time, I was sick of **Spring** and one of my co-workers was trying **Spring Boot**. Then, while browsing other solutions, I bumped into **[Jersey Web Services framework][Jersey Main]** which provided handy RESTful features.
+Early in this year, I was working on developing a distributed system. Apparently, the need for small service components which provide HTTP API endpoints arose. The most crucial part was to choose a lightweight and simple Web Services framework. At that time, I was sick of **Spring** and one of my co-workers was trying **Spring Boot**. Then, while browsing other solutions, I bumped into **[Jersey Web Services framework][Jersey Main]** which provided handy RESTful features.
 
 Okay, the forehead was quite verbose. **[Jersey][Jersey Main]** is the main topic for this article and I'm going to share code snippets about it.
 
 The most fascinating part for me is that it follows the **[JAX-RS][JAX-RS]** specification. If you has an experience in **Spring**, you may already know how convenient Annotation-based coding is to write APIs and business logics.
 
 There are multiple available choices for a web container because **[Jersey][Jersey Main]** is the implementation of the official standard(!). My choice was **[Jetty][Jetty main]** which is well-known and lightweight.  
-(Sometimes, several libraries in a single build have dependencies with the same artifact name but different versions. It also happened to me. I just carried on even though it would be perfectly okay to use another web container.)
+(Sometimes, several libraries in a single build have dependencies with the same artifact name but different versions. It always happened to me. I just carried on even though it would be perfectly okay to use another web container.)
 
-*The [full requirement of RESTful][REST Architectural Constraints] is quite strict and, apparently, sometimes overkill. This is the reason I titled this post not 'RESTful API' but 'HTTP API'.*
+*The [full requirement of RESTful][REST Architectural Constraints] is quite strict. But, following samples hardly comply with those contraints to emphasize what we can simply do with Jersey. So, please notice. Even though Jersey provides powerful features, designing proper RESTful APIs is what developers or architectures should be in charge of.*
 
 *This article is based on Jersey 2.25.1 and Jetty 9.2.22.*
 
@@ -184,7 +185,7 @@ public class DependencyBinder extends AbstractBinder {
 ~~~
 
 # Conclusion
-This article only deals with the very essential features to implement a simple HTTP API server. But, **JAX-RS** specifies various features, and even **Jersey** provides more features than the specification. Its compliance with **JAX-RS specification** allows developers to plug-in various components. Once a best practice is written, it can be re-used repeatedly. Consequently, it will lead a productive way of working.
+This article only deals with the very essential features to implement a simple RESTful API server. **JAX-RS** specifies various features, and even **Jersey** provides more features than the specification. Its compliance with **JAX-RS specification** allows developers to plug-in various components. Once a best practice is written, it can be re-used repeatedly. Consequently, it will lead a productive way of working.
 
 
 [Jersey main]: https://jersey.github.io/ "Jersey main"
