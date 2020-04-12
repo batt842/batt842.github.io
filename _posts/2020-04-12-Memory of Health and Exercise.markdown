@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Simple RESTful API server with Jersey"
+title: "건강과 운동 - 회상"
 date: 2020-04-12 00:00:00 +0200
 categories: prv
 description: 
 #comments: false
-permalink: /prv/1/Jersey
+permalink: /prv/1/memory-of-health-and-exercise
 ---
 
 난 어릴 적부터 체력적으로 강해지길 원했다. 운동을 잘하고 싶진 않았다. 단지 강한 몸을 향한 열망이 있었다. 운동장을 열바퀴씩 달렸고, 자전거로 언덕을 오르고, 어깨에 자전거를 들쳐매고 학교 뒷산을 넘기도 했다. 집에서는 윗몸 일으키기도 하고 덤벨도 곧잘 들었다. 학교 친구들은 내가 강하고 건강하다고 생각했을테다. 하지만 타고난 허악함은 노력으로 넘기 어려운 높은 벽이었다.
