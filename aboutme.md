@@ -7,13 +7,13 @@ permalink: /aboutme/
 Oh, Junseok
 ---
 
-I'm a **Software Engineer** developing **Server-Side Applications** mainly using **Java**.
+I'm a **Software Engineer** developing **Backend Applications** mainly using **Java** and **Kotlin**.
 
-Currently, I'm working for **[DAUM Search][DAUM]** at **[Kakao Corp.][Kakao Corp.]** located in **Jeju, South Korea**.
+Currently, I'm working at **[Delivery Hero SE][DHSE]** located in Berlin, Germany.
 
-I'm interested in **Large-Scale Distributed System**, **Microservices Architecture**, and **Functional Programming.**
+I'm interested in **Large-Scale Distributed System**, **Microservices Architecture**, and **Functional Programming**.
 
-My main technical skills are **Java**, **HBase**, **Redis**, **Spark**, and **Web Crawling**. Also, I've worked with **Spring**, **Javascript**, **DRM**, and so on. 
+My major programming languages are **Java**, **Kotlin**.
 
 I've been finding questions about the world because I believe a good problem and a very new solution could lead the world to a yet unexplored path.
 
@@ -24,5 +24,4 @@ Besides, I'm a drawing enthusiast, knowledge lover, and, of course, engineer. Re
     {%- include social.html -%}
 </div>
 
-[DAUM]: https://www.daum.net/
-[Kakao Corp.]: https://www.kakaocorp.com/
+[DHSE]: https://www.deliveryhero.com
