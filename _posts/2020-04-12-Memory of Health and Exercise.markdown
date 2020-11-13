@@ -4,7 +4,7 @@ title: "건강과 운동 - 회상"
 date: 2020-04-12 00:00:00 +0200
 categories: prv
 description: 
-#comments: false
+comments: true
 permalink: /prv/1/memory-of-health-and-exercise
 ---
 

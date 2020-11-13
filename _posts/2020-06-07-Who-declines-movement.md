@@ -4,7 +4,7 @@ title: "누가 운동을 축소하는가"
 date: 2020-06-07 22:00:00 +0200
 categories: opinion
 description: 
-comments: false
+comments: true
 permalink: /opinion/1/who-declines-movement
 published: true
 ---

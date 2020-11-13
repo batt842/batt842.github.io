@@ -4,7 +4,7 @@ title: "7개월의 새 회사 생활"
 date: 2020-05-10 22:00:00 +0200
 categories: prv
 description: 
-#comments: false
+comments: true
 permalink: /prv/2/the-review-of-working—for-7-month
 published: true
 ---

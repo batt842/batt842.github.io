@@ -4,7 +4,7 @@ title: "성인으로서 영어를 공부하는 방법"
 date: 2020-11-13 14:00:00 +0100
 categories: prv
 description: 
-#comments: false
+comments: true
 permalink: /prv/4/how-to-study-english-as-an-adult
 published: true
 ---
