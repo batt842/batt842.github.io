@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "내가 되고 싶었던 것"
+title: "커리어 걱정"
 date: 2020-06-27 22:00:00 +0200
 categories: prv
 description: 
 comments: false
-permalink: /prv/3/what-i-wanted-to-be
+permalink: /prv/3/worry-about-carrier
 published: true
 ---
 
