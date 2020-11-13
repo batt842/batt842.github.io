@@ -9,7 +9,7 @@ Welcome
 
 Hi, I’m Junseok Oh. You can just call me Jun.
 
-This is my private blog specialized to the topics related to S/W development.
+This is my private blog that I'm trying to post my thoughts about S/W development and other topics.
 
 My usual technical concerns are **Java**, **Kotlin**, **NoSQL**, **Large-Scale Distributed System**, and **Microservices Architecture**.
 
