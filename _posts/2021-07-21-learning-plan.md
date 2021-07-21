@@ -6,7 +6,7 @@ categories: prv
 description: 
 comments: true
 permalink: /prv/7/learning-plan.md
-published: false
+published: true
 ---
 
 기어코 할 일을 할 때가 왔다.
