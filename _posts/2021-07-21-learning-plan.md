@@ -5,7 +5,7 @@ date: 2021-07-21 21:00:00 +0200
 categories: prv
 description: 
 comments: true
-permalink: /prv/7/learning-plan.md
+permalink: /prv/7/learning-plan
 published: true
 ---
 
