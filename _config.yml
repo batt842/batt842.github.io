@@ -33,6 +33,9 @@ plugins:
 
 header_pages:
   - posts.md
+  - posts-sw.md
+  - posts-prv.md
+  - posts-opinion.md
   - aboutme.md
 
 google_analytics: UA-127047509-1
