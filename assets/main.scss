@@ -85,3 +85,73 @@ a {
 .svg-icon {
     padding-right: 0px;
 }
+
+.rounded_text_label {
+	border-radius:3px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	
+	padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 7px;
+    padding-right: 7px;
+	display: inline-block;
+	text-align:center;
+    font-weight: bold;
+    color: #EEEEEE;
+    @include relative-font-size(0.8);
+}
+
+.english_text_label {
+    @extend .rounded_text_label;
+	background-color:#32618a;
+}
+
+.english_text_label::before{
+    content: "ENGLISH";
+}
+
+.exercise_text_label {
+    @extend .rounded_text_label;
+	background-color:#357452;
+}
+
+.exercise_text_label::before{
+    content: "EXERCISE";
+}
+
+.reading_text_label {
+    @extend .rounded_text_label;
+	background-color:#4b8b8a;
+}
+
+.reading_text_label::before{
+    content: "READING";
+}
+
+.study_text_label {
+    @extend .rounded_text_label;
+	background-color:#cc746a;
+}
+
+.study_text_label::before{
+    content: "STUDY";
+}
+
+.art_text_label {
+    @extend .rounded_text_label;
+	background-color:#914e8c;
+}
+
+.art_text_label::before{
+    content: "ART";
+}
+
+.writing_text_label {
+    @extend .rounded_text_label;
+	background-color:#262626;
+}
+
+.writing_text_label::before{
+    content: "WRITING";
+}
