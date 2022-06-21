@@ -8,7 +8,7 @@ comments: true
 permalink: /prv/13/residence-decision
 published: true
 ---
-
+{% raw %}
 <div class="mermaid">
 flowchart TD
     id-beg([June 2022\nUncertainty ])
@@ -53,3 +53,4 @@ flowchart TD
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 <script>mermaid.initialize({startOnLoad:true});
 </script>
+{% endraw %}
