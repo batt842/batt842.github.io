@@ -9,7 +9,7 @@ permalink: /prv/13/residence-decision
 published: true
 ---
 
-```mermaid
+<div class="mermaid">
 flowchart TD
     id-beg([June 2022\nUncertainty ])
     id-fin([Late 2023\nOur lives shall go on])
@@ -48,4 +48,8 @@ flowchart TD
     id5-1-->id-fin
     id6-1-->id-fin
     id6-2-->id-fin
-```
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});
+</script>
