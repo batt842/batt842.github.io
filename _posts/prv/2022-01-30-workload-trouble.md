@@ -5,7 +5,7 @@ date: 2022-01-30 21:00:00 +0100
 categories: prv
 description: 
 comments: true
-permalink: /prv/10/workload-trouble
+permalink: /posts/prv/10/workload-trouble
 published: true
 ---
 

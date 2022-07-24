@@ -5,7 +5,7 @@ date: 2021-02-23 23:00:00 +0100
 categories: prv
 description: 
 comments: true
-permalink: /prv/5/achievement-of-3-month-simple-routine
+permalink: /posts/prv/5/achievement-of-3-month-simple-routine
 published: true
 ---
 

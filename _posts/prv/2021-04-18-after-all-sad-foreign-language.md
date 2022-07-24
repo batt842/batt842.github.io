@@ -5,7 +5,7 @@ date: 2021-04-18 20:00:00 +0200
 categories: prv
 description: 
 comments: true
-permalink: /prv/6/after-all-sad-foreign-language
+permalink: /posts/prv/6/after-all-sad-foreign-language
 published: true
 ---
 

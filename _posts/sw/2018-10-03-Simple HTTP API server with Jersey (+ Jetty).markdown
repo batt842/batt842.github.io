@@ -5,7 +5,7 @@ date: 2018-10-03 22:37:00 +0900
 categories: sw
 description: rest, server, jersey, jetty
 #comments: false
-permalink: /sw/1/Jersey
+permalink: /posts/sw/2/Jersey
 ---
 
 Early in this year, I was working on developing a distributed system. Apparently, the need for small service components which provide HTTP API endpoints arose. The most crucial part was to choose a lightweight and simple Web Services framework. At that time, I was sick of **Spring** and one of my co-workers was trying **Spring Boot**. Then, while browsing other solutions, I bumped into **[Jersey Web Services framework][Jersey Main]** which provided handy RESTful features.

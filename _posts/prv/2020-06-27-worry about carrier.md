@@ -5,7 +5,7 @@ date: 2020-06-27 22:00:00 +0200
 categories: prv
 description: 
 comments: false
-permalink: /prv/3/worry-about-carrier
+permalink: /posts/prv/3/worry-about-carrier
 published: true
 ---
 

@@ -5,7 +5,7 @@ date: 2022-04-27 08:00:00 +0200
 categories: prv
 description: 
 comments: true
-permalink: /prv/12/giving-away-investmet
+permalink: /posts/prv/12/giving-away-investmet
 published: true
 ---
 

@@ -5,7 +5,7 @@ date: 2022-06-21 20:00:00 +0200
 categories: prv
 description: 
 comments: true
-permalink: /prv/13/residence-decision
+permalink: /posts/prv/13/residence-decision
 published: true
 ---
 {% raw %}

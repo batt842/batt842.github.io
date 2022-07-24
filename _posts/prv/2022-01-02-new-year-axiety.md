@@ -5,7 +5,7 @@ date: 2022-01-02 17:00:00 +0100
 categories: prv
 description: 
 comments: true
-permalink: /prv/9/new-year-axiety
+permalink: /posts/prv/9/new-year-axiety
 published: true
 ---
 

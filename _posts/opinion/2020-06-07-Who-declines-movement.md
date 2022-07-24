@@ -5,7 +5,7 @@ date: 2020-06-07 22:00:00 +0200
 categories: opinion
 description: 
 comments: true
-permalink: /opinion/1/who-declines-movement
+permalink: /posts/opinion/1/who-declines-movement
 published: true
 ---
 

@@ -5,7 +5,7 @@ date: 2021-10-31 18:00:00 +0100
 categories: prv
 description: 
 comments: true
-permalink: /prv/8/skillset-4yrs-later
+permalink: /posts/prv/8/skillset-4yrs-later
 published: true
 ---
 

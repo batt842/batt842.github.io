@@ -5,7 +5,7 @@ date: 2020-11-13 14:00:00 +0100
 categories: prv
 description: 
 comments: true
-permalink: /prv/4/how-to-study-english-as-an-adult
+permalink: /posts/prv/4/how-to-study-english-as-an-adult
 published: true
 ---
 

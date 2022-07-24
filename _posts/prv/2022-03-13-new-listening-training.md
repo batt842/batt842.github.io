@@ -5,7 +5,7 @@ date: 2022-03-13 23:00:00 +0100
 categories: prv
 description: 
 comments: true
-permalink: /prv/11/new-listening-training
+permalink: /posts/prv/11/new-listening-training
 published: true
 ---
 

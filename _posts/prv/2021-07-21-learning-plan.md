@@ -2,10 +2,10 @@
 layout: post
 title: "학습 계획에 관한 합리화"
 date: 2021-07-21 21:00:00 +0200
-categories: prv
+categories: learning
 description: 
 comments: true
-permalink: /prv/7/learning-plan
+permalink: /posts/learning/7/learning-plan
 published: true
 ---
 

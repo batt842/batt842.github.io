@@ -2,10 +2,10 @@
 layout: post
 title: "단어 구조 이해력"
 date: 2022-07-23 23:00:00 +0200
-categories: learning
+categories: prv
 description: 
 comments: true
-permalink: /posts/learning/10/improving-sentence-structure-comprehension
+permalink: /posts/prv/14/improving-sentence-structure-comprehension
 published: true
 ---
 
