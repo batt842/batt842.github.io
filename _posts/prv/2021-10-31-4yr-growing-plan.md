@@ -11,7 +11,7 @@ published: true
 
 
 <p align="center">
-  <img src="../../assets/post-prv-8-fig-1.jpg">
+  <img src="../../../assets/post-prv-8-fig-1.jpg">
 </p>
 
 Radar chart도 직접 그리려니 시간이 오래 걸리네.

@@ -19,7 +19,7 @@ published: true
 
 <p align="center">
   <br/>
-  <img src="../../assets/post-prv-5-fig-1.jpg" width="250px">
+  <img src="../../../assets/post-prv-5-fig-1.jpg" width="250px">
   <br/>
   <span><i>하루에 20분이라면 별 것 아닌 것 같아도, 한달이면 10시간이다. 꾸준함이 핵심이다.</i></span>
   <br/>
