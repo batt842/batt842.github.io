@@ -5,12 +5,12 @@ date: 2023-08-27 20:00:00 +0200
 categories: prv
 description: 
 comments: true
-permalink: /prv/13/why-fish-dont-exist
+permalink: /prv/18/why-fish-dont-exist
 published: true
 ---
 
 <p align="center">
-  <img src="../../assets/post-prv-13-fig-1.jpg" width="300px">
+  <img src="../../assets/post-prv-18-fig-1.jpg" width="300px">
 </p>
 
 최근에 본 가장 아름다운 엔딩이었다. 몇 년에 걸친 취재의 시작은 작가의 삶이었고, 자연스레 그 끝도 작가의 삶이었다. 지식과 진리는 그 자체로 아름답지만, 각각의 사람에게 제각각의 삶을 부여한다. 사람들이 찾아내는 “저마다의 삶의 의미”라고도 부를 수 있을 것 같다.
