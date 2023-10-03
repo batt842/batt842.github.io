@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "3년의 어휘 공부를 리뷰한다."
-date: 2023-10-03 12:00:00 +0100
+date: 2023-10-03 11:00:00 +0100
 categories: prv
 description: 
 comments: true
