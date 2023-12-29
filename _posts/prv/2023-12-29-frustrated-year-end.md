@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "빡친 연말"
-date: 2023-12-29 22:30:00 +0100
+date: 2023-12-29 22:00:00 +0100
 categories: prv
 description: 
 comments: true
