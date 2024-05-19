@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "변화를 생각하는 중"
-date: 2024-05-19 12:00:00 +0100
+date: 2024-05-19 11:00:00 +0100
 categories: prv
 description: 
 comments: true
