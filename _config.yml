@@ -36,6 +36,7 @@ header_pages:
   - posts-sw.md
   - posts-prv.md
   - posts-opinion.md
+  - posts-gamedevlog.md
   - aboutme.md
 
 google_analytics: UA-127047509-1

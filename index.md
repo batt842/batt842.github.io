@@ -11,6 +11,6 @@ Hi, I’m Junseok Oh. You can just call me Jun.
 
 This is my private blog that I'm trying to post my thoughts about S/W development and other topics.
 
-My usual technical concerns are **Java**, **Kotlin**, **NoSQL**, **Large-Scale Distributed System**, and **Microservices Architecture**.
+My usual technical interests are **Java**, **Kotlin**, **PostgreSQL**, **NoSQL**, **Fintech**, **Large-Scale Distributed System**, and **Microservices Architecture**.
 
 I’m sorry that it’s still under construnction here. This blog will be filled with my thoughts, experiences, and S/W development things soon.
