@@ -6,7 +6,7 @@ categories: prv
 description: 
 comments: true
 permalink: /posts/prv/24/thinking-deepfake-crimes
-published: false
+published: true
 ---
 
 소위 능욕방 사건으로 불리는 일반인 딥페이크 사건 때문에 최근 생각이 많다. 이렇게 많은 가해자로 인해 무차별적 피해자가 발생하다니. 모든 피해자들에게 큰 상처없이, 자료는 완전히 제거되고, 가해자들은 강력히 처벌받길.
