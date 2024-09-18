@@ -2,10 +2,10 @@
 layout: post
 title: "딥페이크 능욕 범죄를 생각하며"
 date: 2024-09-15 10:00:00 +0100
-categories: prv
+categories: opinion
 description: 
 comments: true
-permalink: /posts/prv/24/thinking-deepfake-crimes
+permalink: /posts/opinion/2/thinking-deepfake-crimes
 published: true
 ---
 
