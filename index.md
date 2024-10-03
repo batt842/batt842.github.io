@@ -15,13 +15,13 @@ I currently work as a backend software engineer at **[Delivery Hero SE][DHSE]**,
 
 In terms of my career, I'm passionate about **Large-Scale Distributed Systems**, **Microservices Architecture**, and **Indie Game Development**.
 
-My current tech stack includes **Java**, **Kotlin**, **Spring Boot**, **PostgreSQL**, **Kubernetes**, **Microservices**, **Hexagonal Architecture**, and **AWS**. I specialize in **Fintech**, specifically **Online Payments System**.
+My current tech stack at work includes **Java**, **Kotlin**, **Spring Boot**, **PostgreSQL**, **Kubernetes**, **Microservices**, **Hexagonal Architecture**, and **AWS**. I specialize in **Fintech**, specifically **Online Payment System**.
 
-I also have experience in **Windows application programming**, **Hadoop**, **HBase**, **Web search**, and other technologies, though they are a bit outdated now.
+I also have experience in **Windows Application Programming**, **Hadoop**, **HBase**, **Web Search System**, and other technologies, though they are a bit outdated now.
 
 I've been searching for questions about the world and myself because I believe a good question and an innovative answer could lead to a yet unexplored, hopefully better, way.
 
-Outside of work, I'm a drawing enthusiast, knowledge lover, and, of course, engineer. Recently, I'm contemplating how to integrate art and knowledge into my profession.
+Outside of work, I'm a **drawing enthusiast**, **knowledge lover**, and, of course, **engineer**. Recently, I'm contemplating how to integrate art and knowledge into my profession.
 
 ### Contact
 <div class="wrapper">
