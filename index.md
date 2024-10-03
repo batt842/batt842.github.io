@@ -9,8 +9,19 @@ Welcome
 
 Hi, I’m Junseok Oh. You can just call me Jun.
 
-This is my private blog that I'm trying to post my thoughts about S/W development and other topics.
+This is a personal blog where I'm trying to post my thoughts about my interests.
 
-My usual technical interests are **Java**, **Kotlin**, **PostgreSQL**, **NoSQL**, **Fintech**, **Large-Scale Distributed System**, and **Microservices Architecture**.
+Currently, I'm working as a backend software engineer at **[Delivery Hero SE][DHSE]** located in Berlin, Germany.
 
-I’m sorry that it’s still under construnction here. This blog will be filled with my thoughts, experiences, and S/W development things soon.
+I'm interested in **Large-Scale Distributed System**, **Microservices Architecture**, and **Functional Programming**.
+
+My major programming languages are **Java**, **Kotlin**.
+
+I've been searching for questions about the world because I believe a good question and an innovative answer could lead the world to a yet unexplored, hopefully better, way.
+
+Besides, I'm a drawing enthusiast, knowledge lover, and, of course, engineer. Recently, I'm considering a way to weave art and knowledge neatly into my profession.
+
+### Contact
+<div class="wrapper">
+    {%- include social.html -%}
+</div>
