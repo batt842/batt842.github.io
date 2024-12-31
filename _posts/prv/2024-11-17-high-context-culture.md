@@ -5,7 +5,7 @@ date: 2024-11-17 23:00:00 +0100
 categories: prv
 description: 
 comments: true
-permalink: /posts/prv/256/high-context-culture
+permalink: /posts/prv/25/high-context-culture
 published: true
 ---
 
