@@ -10,5 +10,5 @@ published: true
 ---
 
 <p align="center">
-  <img src="../../../assets/post-prv-26-pic.jpeg" width="500px">
+  <img src="../../../assets/post-prv-26-pic.jpg" width="500px">
 </p>
